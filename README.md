@@ -3,4 +3,4 @@
 
 
 
-启动需要配置tomcat，访问http://localhost:8080/springwrite/test/hello?name=dong&id=1&name=wen&name=lai&addr=123&id=3
+启动需要配置tomcat，访问http://localhost:8080/springwrite/test/hello?name=123&id=1&name=456&name=789&addr=123&id=3
